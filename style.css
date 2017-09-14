@@ -1,7 +1,26 @@
 body {
-  background-color: pink;
+    background-color: pink;
 }
 
 .centerText{
     text-align: center;
+}
+
+p.lef{
+	
+}
+
+
+#images img{
+   //float:center;
+   width:400px;
+   height:300px;
+   margin:5px;
+   padding: 0px;
+}
+
+
+#images{
+  width: 900px;
+  padding: 10px;
 }
