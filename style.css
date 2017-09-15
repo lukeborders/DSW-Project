@@ -1,7 +1,61 @@
 body {
-  background-color: pink;
+  background-image: white;
 }
 
 .centerText{
     text-align: center;
+}
+#fntl{
+	display: none;
+}
+#fnts{
+	display: none;
+}
+#lntl{
+	display: none;
+}
+#lnts{
+	display: none;
+}
+#emtl{
+	display: none;
+}
+#emts{
+	display: none;
+}
+#nsc{
+	display: none;
+}
+#send{
+	background-color: rgba(76,114,128,1.000);
+	color: white;
+	display: block;
+}
+#send:hover{
+	color: black;
+}
+#message{
+	height: 150px;
+	width: 300px;
+}
+#mtl{
+	display: none;
+}
+#mts{
+	display: none;
+}
+input:focus{
+	outline: none;
+}
+#peem{
+	display: none;
+}
+#peln{
+	display: none;
+}
+#pem{
+	display: none;
+}
+#pen{
+	display: none;
 }
