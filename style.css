@@ -1,61 +1,27 @@
 body {
-  background-image: white;
+    background-color: pink;
 }
 
 .centerText{
     text-align: center;
 }
-#fntl{
-	display: none;
+
+
+
+#imagesL{
+  width: 25%;
+  padding: 10px;
+  text-align: center;
 }
-#fnts{
-	display: none;
+
+#imagesR{
+  width: 25%;
+  padding: 10px;
+  text-align: center;
 }
-#lntl{
-	display: none;
+
+#blocc{
+  display: block;
 }
-#lnts{
-	display: none;
-}
-#emtl{
-	display: none;
-}
-#emts{
-	display: none;
-}
-#nsc{
-	display: none;
-}
-#send{
-	background-color: rgba(76,114,128,1.000);
-	color: white;
-	display: block;
-}
-#send:hover{
-	color: black;
-}
-#message{
-	height: 150px;
-	width: 300px;
-}
-#mtl{
-	display: none;
-}
-#mts{
-	display: none;
-}
-input:focus{
-	outline: none;
-}
-#peem{
-	display: none;
-}
-#peln{
-	display: none;
-}
-#pem{
-	display: none;
-}
-#pen{
-	display: none;
-}
+
+
