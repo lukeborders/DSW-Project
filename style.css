@@ -23,5 +23,123 @@ body {
 #blocc{
   display: block;
 }
+#fntl{
+	display: none;
+	color: red;
+}
+#fnts{
+	display: none;
+	color: red;
+}
+#lntl{
+	display: none;
+	color: red;
+}
+#lnts{
+	display: none;
+	color: red;
+}
+#emtl{
+	display: none;
+	color: red;
+}
+#emts{
+	display: none;
+	color: red;
+}
+#nsc{
+	display: none;
+	color: red;
+}
+#send{
+	background-color: rgba(76,114,128,1.000);
+	color: white;
+	display: block;
+}
+#send:hover{
+	color: black;
+}
+#message{
+	height: 150px;
+	width: 300px;
+}
+#mtl{
+	display: none;
+	color: red;
+}
+#mts{
+	display: none;
+	color: red;
+}
+input:focus{
+	outline: none;
+}
+#peem{
+	display: none;
+	color: red;
+}
+#peln{
+	display: none;
+	color: red;
+}
+#pem{
+	display: none;
+	color: red;
+}
+#pen{
+	display: none;
+	color: red;
+}
+#nsc2{
+	display: none;
+	color: red;
+}
+#sa{
+	display: block;
+	background-color: #2CD025;
+	width: 173.5px;
+	border: none;
+	border-radius: 10px;
+}
+#sa:hover{
+	background-color: #3F8A4E;
+	color: white;
+}
+.seperator1{
+	display: block;
+	height: 25px;
+
+}
+#correct{
+	display: none;
+}
+#incorrect{
+	display: none;
+}
+#answer{
+	border-radius: 10px;
+}
+#firstname{
+	border-radius: 10px;
+}
+#lastname{
+	border-radius: 10px;
+}
+#email{
+	border-radius: 10px;
+}
+#message{
+	border-radius: 10px;
+}
+#send{
+	border-radius: 10px;
+	border: none;
+}
+.contact-text p{
+	float: right;
+	display: block;
+}
+
+
 
 
