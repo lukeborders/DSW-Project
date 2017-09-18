@@ -271,74 +271,74 @@ function answerLetterCharacterLimit(answerKey){
 			}
 				else if(alphabetValues[2] === answerKey){
 				
-			}
+				}
 					else if(alphabetValues[3] === answerKey){
 				
-			}
+					}
 						else if(alphabetValues[4] === answerKey){
 				
-			}
+						}
 							else if(alphabetValues[5] === answerKey){
 				
-			}
+							}
 								else if(alphabetValues[6] === answerKey){
 				
-			}
+								}
 									else if(alphabetValues[7] === answerKey){
 				
-			}							else if(alphabetValues[8] === answerKey){
+									}	else if(alphabetValues[8] === answerKey){
 				
-			}
+										}
 											else if(alphabetValues[9] === answerKey){
 				
-			}
+											}
 												else if(alphabetValues[10] === answerKey){
 				
-			}
+												}
 													else if(alphabetValues[11] === answerKey){
 				
-			}
+													}
 														else if(alphabetValues[12] === answerKey){
 				
-			}
+														}
 															else if(alphabetValues[13] === answerKey){
 				
-			}
+															}
 																else if(alphabetValues[14] === answerKey){
 				
-			}
+																}
 																	else if(alphabetValues[15] === answerKey){
 				
-			}
+																	}
 																		else if(alphabetValues[16] === answerKey){
 				
-			}
+																		}
 																			else if(alphabetValues[17] === answerKey){
 				
-			}
+																			}
 																				else if(alphabetValues[18] === answerKey){
 				
-			}
+																				}
 																					else if(alphabetValues[19] === answerKey){
 				
-			}
+																					}
 																						else if(alphabetValues[20] === answerKey){
 				
-			}
+																						}
 																							else if(alphabetValues[21] === answerKey){
 				
-			}
+																							}
 																								else if(alphabetValues[22] === answerKey){
 				
-			}
+																								}
 																									else if(alphabetValues[23] === answerKey){
 				
-			}
+																									}
 																										else if(alphabetValues[24] === answerKey){
 				
-			}
+																										}
 																											else if(alphabetValues[25] === answerKey){
 				
-			}
+																											}
 																					
 }
