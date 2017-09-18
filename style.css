@@ -23,10 +23,6 @@ body {
 #blocc{
   display: block;
 }
-#fntl{
-	display: none;
-	color: red;
-}
 #fnts{
 	display: none;
 	color: red;
@@ -139,7 +135,3 @@ input:focus{
 	float: right;
 	display: block;
 }
-
-
-
-
