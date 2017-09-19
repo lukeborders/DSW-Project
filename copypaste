@@ -1,0 +1,48 @@
+$(document).ready(function() {
+	$("#solu1").click(function() {
+		$("#tipso1").toggle();
+	})
+	$("#solu2").click(function() {
+		$("#tipso2").toggle();
+	})
+	$("#solu3").click(function() {
+		$("#tipso3").toggle();
+	})
+	$("#solu4").click(function() {
+		$("#tipso4").toggle();
+	})
+	$("#solu5").click(function() {
+		$("#tipso5").toggle();
+	})
+	$("#solu6").click(function() {
+		$("#tipso6").toggle();
+	})	
+	$("#solu7").click(function() {
+		$("#tipso7").toggle();
+		
+	})
+});
+$(document).ready(function() {
+	     
+       
+       
+       
+       
+      table{
+	border: 3px solid black;
+	
+}
+td{
+	font-size:235%;
+	border: 3px solid black;
+}
+th{
+	font-size:300%
+}
+.dontshow{
+	display: none;
+	color: blue;
+}
+h1{
+	font-size:350%;
+} 
