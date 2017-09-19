@@ -135,3 +135,22 @@ input:focus{
 	float: right;
 	display: block;
 }
+table{
+	border: 3px solid black;
+	
+}
+td{
+	font-size:235%;
+	border: 3px solid black;
+}
+th{
+	font-size:300%
+}
+.dontshow{
+	display: none;
+	color: blue;
+}
+h1{
+	font-size:350%;
+} 
+
