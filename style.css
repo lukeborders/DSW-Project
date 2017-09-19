@@ -140,11 +140,11 @@ table{
 	
 }
 td{
-	font-size:235%;
+	font-size:185%;
 	border: 3px solid black;
 }
 th{
-	font-size:300%
+	font-size:275%
 }
 .dontshow{
 	display: none;
