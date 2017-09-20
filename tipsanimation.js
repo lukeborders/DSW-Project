@@ -22,3 +22,18 @@ $(document).ready(function() {
 		
 	})
 });
+$(document).ready(function() {
+	$("#tipso1").click(function() {
+		window.location = "https://sweetcsdesigns.com/best-homemade-french-fries-flash-fry-method"
+	})
+	$("#tipso2").click(function() {
+		window.location = "http://www.huffingtonpost.com/2013/11/14/guacamole-recipe-tips-mistakes_n_3837201.html"
+	})
+	$("#tipso3").click(function() {
+		window.location = "http://www.chatelaine.com/recipes/how-to-cook-perfect-pasta/"
+	})
+	
+	
+	
+});
+
