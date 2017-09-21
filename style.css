@@ -6,6 +6,36 @@ body {
     text-align: center;
 }
 
+#text{
+   width: 25%;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    right: 100px;
+}
+
+
+#imagesL{
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+#imagesR{
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+#blocc{
+  width: 100%;
+  display: inline-block;
+}
 
 
 #imagesL{
