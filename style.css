@@ -27,6 +27,10 @@ body {
 	display: none;
 	color: red;
 }
+#fntl{
+	display: none;
+	color: red;
+}
 #lntl{
 	display: none;
 	color: red;
@@ -93,7 +97,7 @@ input:focus{
 #sa{
 	display: block;
 	background-color: #2CD025;
-	width: 173.5px;
+	width: 150px;
 	border: none;
 	border-radius: 10px;
 }
@@ -134,6 +138,26 @@ input:focus{
 .contact-text p{
 	float: right;
 	display: block;
+}
+#noProf{
+	display: none;
+	color: red;
+}
+#incorrect{
+	color: red;
+}
+#alphabetVal{
+	color: red;
+	display: none;
+}
+#sent{
+	display: none;
+	color: red;
+}
+#messageSnt{
+	float: center;
+	font-size: 50px;
+	
 }
 table{
 	border: 3px solid black;
