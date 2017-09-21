@@ -32,8 +32,18 @@ $(document).ready(function() {
 	$("#tipso3").click(function() {
 		window.location = "http://www.chatelaine.com/recipes/how-to-cook-perfect-pasta/"
 	})
-	
-	
+	$("#tipso4").click(function() {
+		window.location = "http://drinks.seriouseats.com/2013/08/protips-smoothies-without-recipes-better-texture-ingredients-equipment-advice.html"
+	})
+	$("#tipso5").click(function() {
+		window.location= "http://www.mrbreakfast.com/article.asp?articleid=29"
+	})
+	$("#tipso6").click(function() {
+		window.location= "http://www.foodnetwork.com/recipes/articles/5-sandwich-making-tips"
+	})
+	$("#tipso7").click(function() {
+		window.location= "https://greatist.com/health/healthier-salad-infographic"
+	})
 	
 });
 
