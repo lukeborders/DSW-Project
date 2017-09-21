@@ -98,7 +98,7 @@ $(document).ready(function(){
 						});
 										$("#send").click(function(){
 											if(isOk === true){
-												window.open("newwindowinput.html");
+												window.open("newwindow.html");
 											}
 												else if(isOk === false){
 													console.log("please fill out the expected forms");
