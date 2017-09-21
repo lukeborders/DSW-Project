@@ -1,29 +1,8 @@
-body {
-    background-color: lightslategray;
-}
-
-.centerText{
-    text-align: center;
-}
-
-
-
-#imagesL{
-  width: 25%;
-  padding: 10px;
-  text-align: center;
-}
-
-#imagesR{
-  width: 25%;
-  padding: 10px;
-  text-align: center;
-}
-
-#blocc{
-  display: block;
-}
 #fnts{
+	display: none;
+	color: red;
+}
+#fntl{
 	display: none;
 	color: red;
 }
@@ -93,7 +72,7 @@ input:focus{
 #sa{
 	display: block;
 	background-color: #2CD025;
-	width: 173.5px;
+	width: 150px;
 	border: none;
 	border-radius: 10px;
 }
@@ -135,22 +114,23 @@ input:focus{
 	float: right;
 	display: block;
 }
-table{
-	border: 3px solid black;
+#noProf{
+	display: none;
+	color: red;
+}
+#incorrect{
+	color: red;
+}
+#alphabetVal{
+	color: red;
+	display: none;
+}
+#sent{
+	display: none;
+	color: red;
+}
+#messageSnt{
+	float: center;
+	font-size: 50px;
 	
 }
-td{
-	font-size:175%;
-	border: 3px solid black;
-}
-th{
-	font-size:275%
-}
-.dontshow{
-	display: none;
-	color: #660066;
-}
-h1{
-	font-size:350%;
-} 
-
