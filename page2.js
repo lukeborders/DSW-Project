@@ -23,7 +23,7 @@ $(document).ready(function(){
 					$("#fnts").hide();
 					isOk = true;
 				}
-					else if(firstNameValue.val() === "" || firstNameValue.val().length <= max_char &&firstNameValue.val().length >= min_char){
+					else if(firstNameValue.val().length <= max_char &&firstNameValue.val().length >= min_char){
 					   $("#fnts").hide();
 						$("#fntl").hide();
 						isOk = false;
