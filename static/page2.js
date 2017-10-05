@@ -79,7 +79,7 @@ $(document).ready(function(){
 					});
 						$("#send").click(function(){
 							if(isOk === true){
-								window.open("https://www.w3schools.com");
+								window.open("/templates/index.html");
 							}
 								else if(isOk === false){
 									console.log("not everything is ok");
