@@ -10,5 +10,8 @@ def render_page1():
 @app.route("/p2")
 def render_page2():
   return render_template('page2.html')
+@app.route("/")
+def render_newwindow():
+  return render_template('newwindow.html')
 if __name__ == "__main__":
   app.run(debug=False, port=54321)
