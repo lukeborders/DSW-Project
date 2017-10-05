@@ -79,7 +79,7 @@ $(document).ready(function(){
 					});
 						$("#send").click(function(){
 							if(isOk === true){
-								window.open("/templates/newwindow.html/");
+								window.open("/templates/newwindow.html");
 							}
 								else if(isOk === false){
 									console.log("not everything is ok");
