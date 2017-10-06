@@ -79,7 +79,7 @@ $(document).ready(function(){
 					});
 						$("#send").click(function(){
 							if(isOk === true){
-								window.open("newwindow");
+								window.open("https://dsw-project1.herokuapp.com/newwindow");
 							}
 								else if(isOk === false){
 									console.log("not everything is ok");
