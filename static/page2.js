@@ -5,7 +5,7 @@ var specialChar = ["!","@","#","$","%","^","&","*","(",")"]; // array for the sp
 var minSam = 1; // min amount of characters for message box
 var maxSam = 160; // max amount of characters for message box
 var zeroChar = 0;
-var emailValues = ["gmail.com","yahoo.org","icloud.com"];
+var emailValues = ["gmail.com","yahoo.com","icloud.com"];
 var profanityFilter = ["fuck","shit","cunt","bitch","pussy","dick","example"];
 var isOk = false;
 $(document).ready(function(){
